@@ -1,4 +1,5 @@
 # coc8640b4ab7ea074c56f6bdc
+Chrome extension was deployed on Netlify: https://chimerical-monstera-f7a0f7.netlify.app
 
 Quick start:
 
